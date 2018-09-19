@@ -13,7 +13,80 @@ http://bitly.com/esporteinterativo-1hd
 http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.sporx.com/img/59/2017/fox-yayin-akisi-6-aralik-sali-9030683_4440_o-1496456309.jpg" group-title="filmer",Fox
-https://live-edge.pxstream.tv/hls/fox-hd/chunks.m3u8?md5=q2ALLR82fJZ4MiDK7bsTcw&expires=1537367420
+#EXTINF:-1 tvg-logo="https://ergodotisi.blob.core.windows.net/generalimages/companies/11651.jpg"group-title="filmer", tnt SD
+https://live-edge.pxstream.tv/hls/tnthd/chunks.m3u8?md5=EeBV9cKl_t6uchI9VCqahg&expires=1537375021
 
- tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_telecine-fun_m.png"group-title="filmer",telecine fun SD
+https://live-edge.pxstream.tv/hls/telecinefunhd/chunks.m3u8?md5=W41ac45vGkSyN6YbPdbhxQ&expires=1537375448
+
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_telecine-premium-1_m.png"group-title="filmer",Telecine Premium SD
+https://live-edge.pxstream.tv/hls2/telecinepremium/chunks.m3u8?md5=vIb64jrs_PMngWxAw4ADRg&expires=1537375585
+
+#EXTINF:-1 tvg-logo="http://www.filmesonlineseries.com/uploads/thumbs/d5c92abac-1.jpg"group-title="filmer",Assistir Telecine Pipoca SD
+https://live-edge.pxstream.tv/hls/telecinepipocahd/chunks.m3u8?md5=ySAu_Re3aMyIjrFxDa-skg&expires=1537375740
+
+#EXTINF:-1 tvg-logo="https://media-assets-03.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-10557-warner_bros--2x1--940.jpg"group-title="filmer",Warner Bros SD
+https://live-edge.pxstream.tv/loadbalance/warnerchannel/chunks.m3u8?md5=GVUWnF_kQVMkUQtG3sL3eQ&expires=1537375975
+
+#EXTINF:-1 tvg-logo="http://radiorama.com.br/marcas/universal-channel.jpg"group-title="filmer",Universal Channel SD
+https://live-edge.pxstream.tv/loadbalance/universalch/chunks.m3u8?md5=hrikjV3F25DSRABSDLnBfw&expires=1537376184
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
