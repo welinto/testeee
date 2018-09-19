@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TNT Series">
+    <display-name lang="pt">TNT Series</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvcamara-florianopolis.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Esporte Interativo [Brazil]">
+    <display-name lang="pt">Esporte Interativo [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox Sports HD">
+    <display-name lang="pt">Fox Sports HD</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="Fox [Brazil]">
+    <display-name lang="pt">Fox [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+</tv>
