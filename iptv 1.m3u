@@ -1,0 +1,19 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="filmer",TNT Series
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/2474.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-9tDte7uhQ9c/WLdNncrMpjI/AAAAAAAACws/K60NlJ0Qa4AVKeQ1JYpis_OlAheHottMACLcB/s1600/Cinemais.jpg" group-title="filmer", CINE+
+http://live.sba1.com:8080/hls/livecm/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQepPk60Ml7uTHD74Wdy7_1SB6pkzce2s1YVcHqcTL_C8wMO3g" group-title="esporte", Esporte Interativo [Brazil]
+http://bitly.com/esporteinterativo-1hd
+
+#EXTINF:-1 tvg-logo="https://media.foxsports.com.au/digital/images/livestreams/fsnlivestream/FSN_Live_Stream_Start.jpg" group-title="esporte", Fox Sports HD
+http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.sporx.com/img/59/2017/fox-yayin-akisi-6-aralik-sali-9030683_4440_o-1496456309.jpg" group-title="filmer",Fox
+https://live-edge.pxstream.tv/hls/fox-hd/chunks.m3u8?md5=q2ALLR82fJZ4MiDK7bsTcw&expires=1537367420
+
+ tvg-logo="" group-title="",
